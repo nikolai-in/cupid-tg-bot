@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/tameddev/Developer",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Nick",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 4 - Beta",
+  "email": "nikolai.in@tuta.io",
+  "friendly_name": "Cupid Telegram Bot",
+  "github_user": "nikolai-in",
+  "license": "MIT",
+  "package_name": "cupid_tg_bot",
+  "project_name": "cupid-tg-bot",
+  "version": "0.0.0"
+}
